@@ -13,4 +13,3 @@ int main() {
     cout<<b<<" "<<b<<" "<<3*a-2*b<<endl;
     return 0;
 }
-//https://codeforces.com/problemset/problem/2041/E
