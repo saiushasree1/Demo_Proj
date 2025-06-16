@@ -24,4 +24,3 @@ int main() {
     }
     return 0;
 }
-//https://codeforces.com/problemset/problem/2041/B
