@@ -22,4 +22,3 @@ int main() {
     }
     return 0;
 }
-//https://codeforces.com/problemset/problem/2039/C1
