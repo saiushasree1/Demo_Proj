@@ -1,6 +1,7 @@
 // Online C++ compiler to run C++ program online
 #include <bits/stdc++.h>
 using namespace std;
+
 /*The core logic involves:
 1. Initializing a counter `cnt` for "1100" occurrences.
 2. Iterating through the string to find and count initial "1100" substrings.
