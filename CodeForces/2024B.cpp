@@ -35,4 +35,3 @@ signed main()
         cout << answer << "\n";
     }
 }
-//https://codeforces.com/problemset/problem/2024/B
